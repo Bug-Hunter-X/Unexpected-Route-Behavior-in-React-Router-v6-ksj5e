@@ -1,0 +1,1 @@
+This repository demonstrates a bug encountered in React Router v6, specifically concerning unexpected route rendering and potential console errors. The bug.js file contains the erroneous code, while bugSolution.js offers a solution.  The issue involves improper route definition and handling leading to incorrect component rendering.
